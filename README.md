@@ -36,7 +36,7 @@
 
 <p align="center">
     <a href="https://github.com/git-divyansh/>
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Divyansh Gusain's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nileshsrivastava27&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Divyansh Gusain's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=git-divyansh&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
                                                                                                      
@@ -70,7 +70,7 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=nileshsrivastava27">
+    <img src="https://komarev.com/ghpvc/?username=git-divyansh">
 </a>
 <a href="https://github.com/git-divyansh?tab=followers"><img src="https://img.shields.io/github/followers/git-divyansh?label=Followers&style=social" alt="GitHub Badge"></a>
 
