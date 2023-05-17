@@ -61,7 +61,7 @@
 
     
 
-<a href = "https://www.linkedin.com/in/nilesh-srivastava-49815a203"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/divyansh-gusain-62294921b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/SrivaNilesh02"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 
