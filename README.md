@@ -4,11 +4,11 @@
 
 <h1 align="center">Hi, I'm Divyansh Gusain - [git-divyansh]</h1>
 
-## I'm a Student and a Developer!!
+## I'm a Software Developer!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate in open-source and willing to learn new skills
-- 🥅 2023 Goals: Learn more about ReactJS.
+- 🥅 2025 Goals: Learn typescript, playaround with OpenGl and learn distributed systems.
 - ⚡ Fun fact: I love to code and play keyboard!!
 - 📫 Reach me here :- divyanshwork2022@gmail.com
 
